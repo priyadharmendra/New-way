@@ -1,0 +1,19 @@
+<html>
+ 
+  <title>First website ever</title>
+  
+   <body>
+    
+    <h1>This is my first Web more is yet to come</h1>
+  
+  </body>
+  
+      <style>
+            body {
+              background-color:blue;
+              color:#fff;
+              text-align:center;
+            }
+      </style>
+  
+</html>
